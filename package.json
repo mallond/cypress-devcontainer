@@ -1,0 +1,31 @@
+{
+  "name": "cypress-devcontainer",
+  "version": "1.0.0",
+  "description": "Cypress Learning and Explorint Test Labratory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallond/cypress-devcontainer.git"
+  },
+  "keywords": [
+    "cypress",
+    "rpa",
+    "ai",
+    "nocode",
+    "lowcode",
+    "qa",
+    "automation"
+  ],
+  "author": "David Mallon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mallond/cypress-devcontainer/issues"
+  },
+  "homepage": "https://github.com/mallond/cypress-devcontainer#readme",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
